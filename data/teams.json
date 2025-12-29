@@ -1,0 +1,47 @@
+[
+  {
+    "id": "vitality",
+    "name": "Vitality",
+    "region": "EU",
+    "wins": 40,
+    "losses": 20,
+    "rating": 1500.0,
+    "world_rank": 1
+  },
+  {
+    "id": "furia",
+    "name": "Furia",
+    "region": "LATAM",
+    "wins": 48,
+    "losses": 17,
+    "rating": 1500.0,
+    "world_rank": 2
+  },
+  {
+    "id": "falcons",
+    "name": "Falcons",
+    "region": "EU",
+    "wins": 30,
+    "losses": 17,
+    "rating": 1500.0,
+    "world_rank": 3
+  },
+  {
+    "id": "mouz",
+    "name": "MOUZ",
+    "region": "EU",
+    "wins": 24,
+    "losses": 16,
+    "rating": 1500.0,
+    "world_rank": 4
+  },
+  {
+    "id": "faze",
+    "name": "FaZe",
+    "region": "EU",
+    "wins": 34,
+    "losses": 26,
+    "rating": 1500.0,
+    "world_rank": 5
+  }
+]
