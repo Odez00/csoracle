@@ -1,6 +1,6 @@
-# CS Match Predictor
+# csoracle
 
-A rudimentary Go-based application for predicting CS:GO match results based on team statistics.
+Go-powered match prediction engine for Counter-Strike
 
 ## Features
 
